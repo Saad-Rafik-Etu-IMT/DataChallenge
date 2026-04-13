@@ -1,0 +1,23 @@
+# Virtual environment
+.venv/
+
+# Data (large files, not versioned)
+DataChallenge_donnees/
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Model checkpoints
+*.pth
+*.pt
+*.ckpt
+
+# OS
+.DS_Store
+Thumbs.db
